@@ -19,6 +19,7 @@ public class stepDefination {
     public void user_is_on_something(String strArg1) throws Throwable {
     	driver = Base.getDriver(); 	
     	driver.get(strArg1);
+	System.out.println("This is test code");
     }
 
     @When("^user refreshes the browser$")
