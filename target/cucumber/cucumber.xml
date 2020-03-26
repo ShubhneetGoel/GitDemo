@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="8.558239">
+    <testcase classname="Open Example Website" name="Open Example Website" time="8.558239">
+        <system-out>
+            <![CDATA[Given user is on "http://www.example.com"...................................passed
+When user refreshes the browser.............................................passed
+Then user closes the browser................................................passed
+]]>
+        </system-out>
+    </testcase>
+</testsuite>
